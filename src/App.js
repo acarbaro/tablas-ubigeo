@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 import constants from './assets/constants';
-import Ubigeo from './component/Ubigeo';
-
 const { listaUbigeo } = constants;
 
 class App extends Component {
